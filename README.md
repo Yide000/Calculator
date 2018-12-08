@@ -1,2 +1,2 @@
 # Calculator
-Calculator for sum, substraction, division and multiplication.
+A program in java that simulate a calculator for sum, substraction, division and multiplication.
